@@ -1,0 +1,11 @@
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+xarray==2026.9.0
+harmonica==0.7.0
+geopandas==1.2.0
+rasterio==1.5.2
+rioxarray
+pyproj==3.8.0
+shapely
+matplotlib==3.11.2

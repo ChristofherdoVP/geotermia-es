@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "es-crustal-thermal-state: radiogenic heat production, magnetic source depths and Monte Carlo geotherms for Espírito Santo, SE Brazil"
+authors:
+  - family-names: "do Vale Pena"
+    given-names: "Christofher"
+    affiliation: "Instituto Nacional de Pesquisas Espaciais (INPE)"
+    orcid: "https://orcid.org/0000-0003-1121-8374"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/ChristofherdoVP/geotermia-es"
